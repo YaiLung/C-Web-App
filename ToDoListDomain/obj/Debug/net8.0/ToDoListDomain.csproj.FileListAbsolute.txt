@@ -1,0 +1,14 @@
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\bin\Debug\net8.0\ToDoListDomain.deps.json
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\bin\Debug\net8.0\ToDoListDomain.runtimeconfig.json
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\bin\Debug\net8.0\ToDoListDomain.dll
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\bin\Debug\net8.0\ToDoListDomain.pdb
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.AssemblyInfo.cs
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.dll
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\refint\ToDoListDomain.dll
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.pdb
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ToDoListDomain.genruntimeconfig.cache
+C:\Users\home\source\repos\WebApplication1\ToDoListDomain\obj\Debug\net8.0\ref\ToDoListDomain.dll

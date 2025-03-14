@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ToDoListDomain.Enities
 {
-    class Class1
+    public abstract class Entity<TPrimaryKey>
     {
+        public TPrimaryKey Id { get; set; }
+    }
+    public abstract class Entity : Entity <int>
+    {
+
     }
 }
